@@ -62,6 +62,9 @@ author:
   avatar : "/assets/images/Brezinski, Kenneth,Photo ID.png"
   bio    : "Ph.D. student in the Department of Electrical and Computer Engineering at the University of Manitoba"
   links:
+    - label: "Winnipeg, MB"
+      icon: "fas fa-map-marker-alt"
+      url: ""
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/kenneth-brezinski-b65a05136/"
