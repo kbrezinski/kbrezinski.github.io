@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Kenneth Brezinski"
   avatar : "/assets/images/Brezinski, Kenneth,Photo ID.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D. student in the Department of Electrical and Computer Engineering at the University of Manitoba"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
