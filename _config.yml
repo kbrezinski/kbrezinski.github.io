@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Neural Mindset
+email: brezinkk@myumanitoba.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
+github_username: kbrezinski
 minimal_mistakes_skin: default
 search: true
 
@@ -77,15 +77,19 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/kenneth-brezinski-b65a05136/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/kbrezinski"
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?hl=en&user=8se90q8AAAAJ"
+    - label: "Youtube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/user/kenbobcorn/videos"
+
 
 defaults:
   # _posts
