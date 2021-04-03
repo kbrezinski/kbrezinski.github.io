@@ -69,7 +69,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/kenneth-brezinski-b65a05136/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/kbrezinski"
     - label: "Google Scholar"
       icon: "fab fa-google"
