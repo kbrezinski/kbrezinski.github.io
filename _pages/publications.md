@@ -60,7 +60,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 ## Sandy Toolbox: A Framework for Dynamic Malware Analysis and Model Development
 {% include feature_row id="feature_row3" type="left" %}
 ## Complexity-Based Convolutional Neural Network for Malware Classification
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row4" type="left" %}
 
 # Combinatorial Optimization
 {% include feature_row id="feature_row2" type="left" %}
