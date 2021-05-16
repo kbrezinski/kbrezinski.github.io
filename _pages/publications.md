@@ -8,7 +8,7 @@ toc_icon: "file-medical-alt"
 share: true
 
 feature_row1:
-  - image_path: /assets/images/abm-conf.png
+  - image_path: /assets/images/abm-conf.pdf
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -16,7 +16,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/abm.png
+  - image_path: /assets/images/abm.pdf
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
