@@ -1,8 +1,10 @@
 ---
 permalink: /publications/
 title: "Publications"
-intro:
-  -excerpt: 'Some random bs'
+classes: wide
+toc: true
+toc_label: "List of Publications"
+toc_icon: "cog"
 feature_row1:
   - image_path: /assets/images/logoBlack.png
     alt: "placeholder image 2"
@@ -23,8 +25,11 @@ feature_row2:
 
 Test publication page
 
+# First Paper
 {% include feature_row id="intro" type="center" %}
 
+# Second Paper
 {% include feature_row id="feature_row1" type="left" %}
 
+#Third Paper
 {% include feature_row id="feature_row2" type="left" %}
