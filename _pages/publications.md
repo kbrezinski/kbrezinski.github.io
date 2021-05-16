@@ -18,8 +18,8 @@ feature_row1:
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/abm.png
     alt: "placeholder image 2"
@@ -38,16 +38,17 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
-# Malware Classification
-
 For a full list of my publications in conferences and periodicals, please visit my [ResearchGate](https://www.researchgate.net/profile/Kenneth-Brezinski).
 {: .notice--info}
 
-# Combinatorial Optimization
+# Malware Classification
 {% include feature_row id="feature_row1" type="left" %}
+[Success Button Text](#link){: .btn .btn--success} [Success Button Text](#link){: .btn .btn--success}
 
-# High Performance Size Exclusion Chromatography
+# Combinatorial Optimization
 {% include feature_row id="feature_row2" type="left" %}
 
-# Fourth Paper
+# High Performance Size Exclusion Chromatography
 {% include feature_row id="feature_row3" type="left" %}
+
+# Fourth Paper
