@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 layout: single
 author_profile: false
-classes: wide
+#classes: wide
 
 toc: true
 toc_label: "List of Publications"
