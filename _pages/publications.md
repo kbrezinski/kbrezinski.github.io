@@ -20,8 +20,8 @@ feature_row1:
     url: "https://www.researchgate.net/publication/351513147_Complexity-Based_Lambda_Layer_for_Time_Series_Prediction"
     btn_label: "Full-Text"
     btn_class: "btn--success"
-    url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
-    btn_label2: "New Button"
+    url2: "https://youtu.be/8W5th_WNTcQ"
+    btn_label2: "Video"
     btn_class2: "btn--danger"
 
 feature_row2:
@@ -32,9 +32,9 @@ feature_row2:
     url: "https://www.researchgate.net/publication/351513002_Transformers_-_Malware_in_Disguise"
     btn_label: "Full-Text"
     btn_class: "btn--success"
-    url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
-    btn_label2: "New Button"
-    btn_class2: "btn--danger"
+    #url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
+    #btn_label2: "New Button"
+    #btn_class2: "btn--danger"
 
 feature_row3:
   - image_path: /assets/images/review.png
@@ -44,9 +44,9 @@ feature_row3:
     url: "https://www.researchgate.net/publication/351513231_Sandy_Toolbox_A_Framework_for_Dynamic_Malware_Analysis_and_Model_Development"
     btn_label: "Full-Text"
     btn_class: "btn--success"
-    url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
-    btn_label2: "New Button"
-    btn_class2: "btn--danger"
+    #url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
+    #btn_label2: "New Button"
+    #btn_class2: "btn--danger"
 
 feature_row4:
   - image_path: /assets/images/cnn.png
@@ -56,8 +56,8 @@ feature_row4:
     url: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
     btn_label: "Full-Text?"
     btn_class: "btn--success"
-    url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
-    btn_label2: "New Button"
+    url2: "https://youtu.be/AJWH-rHxcuU"
+    btn_label2: "Video"
     btn_class2: "btn--danger"
 
 ---
