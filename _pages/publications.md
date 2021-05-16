@@ -47,13 +47,10 @@ feature_row4:
     url: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
     btn_label: "Full-Text"
     btn_class: "btn--success"
+    url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
+    btn_label2: "New Button"
+    btn_class2: "btn--warning"
 
-feature_row5:
-  - image_path: /assets/images/cnn.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
 ---
 
 For a full list of my publications in conferences and periodicals, please visit my [ResearchGate](https://www.researchgate.net/profile/Kenneth-Brezinski).
@@ -70,7 +67,6 @@ For a full list of my publications in conferences and periodicals, please visit 
 {% include feature_row id="feature_row4" type="left" %}
 
 # Combinatorial Optimization
-{% include feature_row id="feature_row5" type="left" %}
 # High Performance Size Exclusion Chromatography
 
 # Fourth Paper
