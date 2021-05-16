@@ -22,7 +22,7 @@ feature_row1:
     btn_class: "btn--success"
     url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
     btn_label2: "New Button"
-    btn_class2: "btn--warning"
+    btn_class2: "btn--danger"
 
 feature_row2:
   - image_path: /assets/images/transformer.png
@@ -34,7 +34,7 @@ feature_row2:
     btn_class: "btn--success"
     url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
     btn_label2: "New Button"
-    btn_class2: "btn--warning"
+    btn_class2: "btn--danger"
 
 feature_row3:
   - image_path: /assets/images/review.png
@@ -46,7 +46,7 @@ feature_row3:
     btn_class: "btn--success"
     url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
     btn_label2: "New Button"
-    btn_class2: "btn--warning"
+    btn_class2: "btn--danger"
 
 feature_row4:
   - image_path: /assets/images/cnn.png
@@ -58,7 +58,7 @@ feature_row4:
     btn_class: "btn--success"
     url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
     btn_label2: "New Button"
-    btn_class2: "btn--warning"
+    btn_class2: "btn--danger"
 
 ---
 
