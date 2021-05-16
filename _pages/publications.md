@@ -23,6 +23,6 @@ intro:
 
 Test publication page
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row1 id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row2 id="feature_row2" type="left" %}
