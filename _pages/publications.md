@@ -2,8 +2,9 @@
 permalink: /publications/
 title: "Publications"
 layout: single
-#classes:
-#  - wide
+author_profile: false
+classes:
+  - wide
 
 toc: true
 toc_label: "List of Publications"
@@ -39,7 +40,7 @@ feature_row3:
 ---
 
 # Malware Classification
-{% include feature_row id="intro" type="center" %}
+#{% include feature_row id="intro" type="center" %}
 <a href="#" class="btn btn--success">Success Button</a>
 
 # Combinatorial Optimization
