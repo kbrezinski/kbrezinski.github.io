@@ -12,14 +12,14 @@ toc_sticky: false
 
 share: true
 
-lambda_layer:
+feature_row1:
   - image_path: /assets/images/abm-conf.png
     alt: "placeholder image 2"
     title: "Kenneth Brezinski, Ken Ferens"
-    excerpt: 'Conference: 2021 IEEE Congress on Evolutionary ComputationAt: Krakow, Poland'
+    excerpt: 'Conference: 2021 IEEE Congress on Evolutionary Computation At: Krakow, Poland'
     url: "https://www.researchgate.net/publication/351513147_Complexity-Based_Lambda_Layer_for_Time_Series_Prediction"
     btn_label: "Full-Text"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 feature_row2:
   - image_path: /assets/images/abm.png
@@ -29,6 +29,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row3:
   - image_path: /assets/images/malimg.png
     alt: "placeholder image 2"
@@ -44,7 +45,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 
 # Malware Classification
 ## Complexity-Based Lambda Layer for Time Series Prediction
-{% include feature_row id="lambda layer" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
 
 # Combinatorial Optimization
 {% include feature_row id="feature_row2" type="left" %}
