@@ -40,9 +40,8 @@ feature_row3:
 
 # Malware Classification
 
-<a href="https://pdf2png.com/" class="btn btn--researchgate">Researchgate</a>
-<a href="#" class="btn btn--success">Success Button</a>
-<a href="#" class="btn btn--success">Success Button</a>
+For a full list of my publications in conferences and periodicals, please visit my [ResearchGate](https://www.researchgate.net/profile/Kenneth-Brezinski).
+{: .notice--info}
 
 # Combinatorial Optimization
 {% include feature_row id="feature_row1" type="left" %}
