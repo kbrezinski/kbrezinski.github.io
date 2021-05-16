@@ -5,4 +5,4 @@ title: "Publications"
 
 Test publication page
 
-{% include feature_row %}
+![image-center](/assets/images/logoBlack.png){: .align-left}
