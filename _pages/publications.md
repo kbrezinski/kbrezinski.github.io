@@ -40,7 +40,7 @@ feature_row3:
     btn_class: "btn--success"
 
 feature_row4:
-  - image_path: /assets/images/malimg.png
+  - image_path: /assets/images/cnn.png
     alt: "placeholder image 2"
     title: "**Brezinski, K.**, Ferens, K."
     excerpt: 'Conference: 2021 IEEE Congress on Evolutionary Computation At: Krakow, Poland'
