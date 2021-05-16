@@ -13,7 +13,7 @@ toc_sticky: false
 share: true
 
 feature_row1:
-  - image_path: /assets/images/abm-conf.png
+  - image_path: /assets/images/rnn.png
     alt: "placeholder image 2"
     title: "Kenneth Brezinski, Ken Ferens"
     excerpt: 'Conference: 2021 IEEE Congress on Evolutionary Computation At: Krakow, Poland'
