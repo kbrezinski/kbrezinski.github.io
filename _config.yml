@@ -16,7 +16,7 @@
 title: Personal Site of Kenneth Brezinski
 email: brezinkk@myumanitoba.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  The personal website for Kennneth Brezinski
+  The personal website of Kennneth Brezinski
 # twitter_username: username
 github_username: kbrezinski
 minimal_mistakes_skin: default
@@ -31,6 +31,13 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 logo: "/assets/images/logoBlack.png"
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : "G-NK71GD3CSB"
+    anonymize_ip         : false
 
 include:
   - _pages
@@ -79,9 +86,9 @@ author:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/user/kenbobcorn/videos"
-    - label: "Medium"
-      icon: "fab fa-fw fa-medium"
-      url: "https://kenbrezinski.medium.com/"
+    #- label: "Medium"
+    #  icon: "fab fa-fw fa-medium"
+    #  url: "https://kenbrezinski.medium.com/"
 
 # footer:
 #   links:
