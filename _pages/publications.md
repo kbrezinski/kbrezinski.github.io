@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-layout: home #single, splash
+layout: single #home, splash (disables toc)
 author_profile: false
 #classes: wide
 
