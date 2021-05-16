@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 intro:
-  -exerpt: 'Some random bs'
+  -excerpt: 'Some random bs'
 feature_row1:
   - image_path: /assets/images/logoBlack.png
     alt: "placeholder image 2"
@@ -11,7 +11,6 @@ feature_row1:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
 feature_row2:
   - image_path: /assets/images/logoBlack.png
     alt: "placeholder image 2"
@@ -24,6 +23,8 @@ feature_row2:
 
 Test publication page
 
-{% include feature_row1 id="feature_row1" type="left" %}
+{% include feature_row id="intro" type="center" %}
 
-{% include feature_row2 id="feature_row2" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row2" type="left" %}
