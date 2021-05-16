@@ -45,7 +45,7 @@ feature_row4:
     title: "Brezinski, K., Ferens, K."
     excerpt: 'Conference: 2020 International Conference on Computational Science and Computational Intelligence. At: Las Vegas, USA'
     url: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
-    btn_label: "Full-Text"
+    btn_label: "Full-Text?"
     btn_class: "btn--success"
     url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
     btn_label2: "New Button"
