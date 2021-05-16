@@ -16,7 +16,7 @@ feature_row1:
   - image_path: /assets/images/rnn.png
     alt: "placeholder image 2"
     title: " "
-    excerpt: '*Kenneth Brezinski*, Ken Ferens. Conference: 2021 IEEE Congress on Evolutionary Computation At: Krakow, Poland'
+    excerpt: '**Kenneth Brezinski**, Ken Ferens. Conference: 2021 IEEE Congress on Evolutionary Computation At: Krakow, Poland'
     url: "https://www.researchgate.net/publication/351513147_Complexity-Based_Lambda_Layer_for_Time_Series_Prediction"
     btn_label: "Full-Text"
     btn_class: "btn--success"
