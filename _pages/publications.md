@@ -44,9 +44,9 @@ feature_row3:
     url: "https://www.researchgate.net/publication/351513231_Sandy_Toolbox_A_Framework_for_Dynamic_Malware_Analysis_and_Model_Development"
     btn_label: "Full-Text"
     btn_class: "btn--success"
-    url2: "#"
-    btn_label2: "Video Coming Soon"
-    btn_class2: "btn--danger"
+    #url2: "#"
+    #btn_label2: "Video Coming Soon"
+    #btn_class2: "btn--danger"
 
 feature_row4:
   - image_path: /assets/images/cnn.png
@@ -54,7 +54,7 @@ feature_row4:
     title: "Brezinski, K., Ferens, K."
     excerpt: 'Conference: 2020 International Conference on Computational Science and Computational Intelligence. At: Las Vegas, USA'
     url: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
-    btn_label: "Full-Text?"
+    btn_label: "Full-Text"
     btn_class: "btn--success"
     url2: "https://youtu.be/AJWH-rHxcuU"
     btn_label2: "Video"
