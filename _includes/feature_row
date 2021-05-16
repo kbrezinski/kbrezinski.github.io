@@ -31,7 +31,7 @@
           {% endif %}
 
           {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Default Text>" }}</a> &nbsp; <a href="{{ f.url2 | relative_url }}" class="btn {{ f.btn_class2 }}">{{ f.btn_label2 | default: site.data.ui-text[site.locale].more_label | default: "Default Text>" }}</a></p>
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Default Text>" }}</a> &nbsp; {% if f.ur2 %} <a href="{{ f.url2 | relative_url }}" class="btn {{ f.btn_class2 }}">{{ f.btn_label2 | default: site.data.ui-text[site.locale].more_label | default: "Default Text>" }}</a> {% endif %} </p>
           {% endif %}
 
         </div>

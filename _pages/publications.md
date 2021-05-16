@@ -32,8 +32,8 @@ feature_row2:
     url: "https://www.researchgate.net/publication/351513002_Transformers_-_Malware_in_Disguise"
     btn_label: "Full-Text"
     btn_class: "btn--success"
-    #url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
-    #btn_label2: "New Button"
+    #url2: "#"
+    #btn_label2: "Video Coming Soon"
     #btn_class2: "btn--danger"
 
 feature_row3:
@@ -44,9 +44,9 @@ feature_row3:
     url: "https://www.researchgate.net/publication/351513231_Sandy_Toolbox_A_Framework_for_Dynamic_Malware_Analysis_and_Model_Development"
     btn_label: "Full-Text"
     btn_class: "btn--success"
-    #url2: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
-    #btn_label2: "New Button"
-    #btn_class2: "btn--danger"
+    url2: "#"
+    btn_label2: "Video Coming Soon"
+    btn_class2: "btn--danger"
 
 feature_row4:
   - image_path: /assets/images/cnn.png
