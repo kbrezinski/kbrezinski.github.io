@@ -4,7 +4,7 @@ title: "Publications"
 classes: wide
 toc: true
 toc_label: "List of Publications"
-toc_icon: "cog"
+toc_icon: "file-medical-alt"
 feature_row1:
   - image_path: /assets/images/logoBlack.png
     alt: "placeholder image 2"
