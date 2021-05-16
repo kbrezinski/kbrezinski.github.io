@@ -98,7 +98,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_pages"
       type: publications
     values:
       layout: single
