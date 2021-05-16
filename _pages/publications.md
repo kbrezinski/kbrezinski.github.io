@@ -8,7 +8,7 @@ classes: wide
 toc: true
 toc_label: "List of Publications"
 toc_icon: "file-medical-alt"
-toc_sticky: false
+toc_sticky: true
 
 share: false
 
