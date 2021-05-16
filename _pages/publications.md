@@ -40,7 +40,7 @@ feature_row3:
 
 # Malware Classification
 #{% include feature_row id="intro" type="center" %}
-<a href="#" class="btn btn--success">Success Button</a>
+<a href="#" class="btn btn--success">Success Button</a> <a href="#" class="btn btn--success">Success Button</a> <a href="#" class="btn btn--success">Success Button</a>
 
 # Combinatorial Optimization
 {% include feature_row id="feature_row1" type="left" %}
