@@ -47,6 +47,13 @@ feature_row4:
     url: "https://www.researchgate.net/publication/351513066_Complexity-Based_Convolutional_Neural_Network_for_Malware_Classification"
     btn_label: "Full-Text"
     btn_class: "btn--success"
+
+feature_row5:
+  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
 ---
 
 For a full list of my publications in conferences and periodicals, please visit my [ResearchGate](https://www.researchgate.net/profile/Kenneth-Brezinski).
