@@ -15,8 +15,8 @@ share: true
 feature_row1:
   - image_path: /assets/images/rnn.png
     alt: "placeholder image 2"
-    title: "**Brezinski, K.**, Ferens, K."
-    excerpt: 'Conference: 2021 IEEE Congress on Evolutionary Computation At: Krakow, Poland'
+    #title: "**Brezinski, K.**, Ferens, K."
+    excerpt: '**Brezinski, K.**, Ferens, K. Conference: 2021 IEEE Congress on Evolutionary Computation At: Krakow, Poland'
     url: "https://www.researchgate.net/publication/351513147_Complexity-Based_Lambda_Layer_for_Time_Series_Prediction"
     btn_label: "Full-Text"
     btn_class: "btn--success"
@@ -24,18 +24,18 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/transformer.png
     alt: "placeholder image 2"
-    title: "**Brezinski, K.**, Ferens, K."
-    excerpt: 'Conference: 2021 IEEE Congress on Evolutionary Computation At: Krakow, Poland'
-    url: "https://www.researchgate.net/publication/351513147_Complexity-Based_Lambda_Layer_for_Time_Series_Prediction"
+    #title: "**Brezinski, K.**, Ferens, K."
+    excerpt: '**Brezinski, K.**, Ferens, K. In book: Transactions on Computational Science & Computational Intelligence. Chapter: Advances in Security, Networks, and Internet of Things. Publisher: Springer Nature'
+    url: "https://www.researchgate.net/publication/351513002_Transformers_-_Malware_in_Disguise"
     btn_label: "Full-Text"
     btn_class: "btn--success"
 
 feature_row3:
   - image_path: /assets/images/review.png
     alt: "placeholder image 2"
-    title: "**Brezinski, K.**, Ferens, K."
-    excerpt: 'Conference: 2021 IEEE Congress on Evolutionary Computation At: Krakow, Poland'
-    url: "https://www.researchgate.net/publication/351513147_Complexity-Based_Lambda_Layer_for_Time_Series_Prediction"
+    #title: "**Brezinski, K.**, Ferens, K."
+    excerpt: '**Brezinski, K.**, Ferens, K. In book: Transactions on Computational Science & Computational Intelligence. Chapter: Advances in Security, Networks, and Internet of Things. Publisher: Springer Nature'
+    url: "https://www.researchgate.net/publication/351513231_Sandy_Toolbox_A_Framework_for_Dynamic_Malware_Analysis_and_Model_Development"
     btn_label: "Full-Text"
     btn_class: "btn--success"
 
