@@ -39,9 +39,10 @@ feature_row3:
 ---
 
 # Malware Classification
-<a href="https://www.reddit.com/submit?url={{ page.url | relative_url }}&title={{ page.title }}" class="btn btn--researchgate" title="{{ site.data.ui-text[site.locale].share_on_label }} Reddit"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i><span> Reddit</span></a>
 
-<a href="https://pdf2png.com/" class="btn btn--researchgate">Researchgate</a> <a href="#" class="btn btn--success">Success Button</a> <a href="#" class="btn btn--success">Success Button</a>
+<a href="https://pdf2png.com/" class="btn btn--researchgate">Researchgate</a>
+<a href="#" class="btn btn--success">Success Button</a>
+<a href="#" class="btn btn--success">Success Button</a>
 
 # Combinatorial Optimization
 {% include feature_row id="feature_row1" type="left" %}
