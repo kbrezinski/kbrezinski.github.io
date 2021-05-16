@@ -10,7 +10,7 @@ toc_label: "List of Publications"
 toc_icon: "file-medical-alt"
 toc_sticky: false
 
-share: false
+share: true
 
 feature_row1:
   - image_path: /assets/images/abm-conf.png
