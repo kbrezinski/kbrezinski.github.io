@@ -58,7 +58,9 @@ For a full list of my publications in conferences and periodicals, please visit 
 
 # Malware Classification
 ## Complexity-Based Lambda Layer for Time Series Prediction
+<td vlign="center">
 {% include feature_row id="feature_row1" type="left" %}
+</td>
 ## Transformers - Malware in Disguise
 {% include feature_row id="feature_row2" type="left" %}
 ## Sandy Toolbox: A Framework for Dynamic Malware Analysis and Model Development
