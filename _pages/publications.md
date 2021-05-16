@@ -4,10 +4,11 @@ title: "Publications"
 layout: single
 classes:
   - wide
+
 toc: true
 toc_label: "List of Publications"
 toc_icon: "file-medical-alt"
-toc_sticky: "true"
+toc_sticky: true
 
 share: false
 
