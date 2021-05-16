@@ -2,8 +2,8 @@
 permalink: /publications/
 title: "Publications"
 layout: single
-classes:
-  - wide
+#classes:
+#  - wide
 
 toc: true
 toc_label: "List of Publications"
@@ -38,13 +38,14 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
-# First Paper
+# Malware Classification
 {% include feature_row id="intro" type="center" %}
+<a href="#" class="btn btn--success">Success Button</a>
 
-# Second Paper
+# Combinatorial Optimization
 {% include feature_row id="feature_row1" type="left" %}
 
-# Third Paper
+# High Performance Size Exclusion Chromatography
 {% include feature_row id="feature_row2" type="left" %}
 
 # Fourth Paper
