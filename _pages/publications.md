@@ -40,6 +40,8 @@ feature_row3:
 
 # Malware Classification
 #{% include feature_row id="intro" type="center" %}
+<a href="https://www.reddit.com/submit?url={{ page.url | relative_url }}&title={{ page.title }}" class="btn btn--reddit" title="{{ site.data.ui-text[site.locale].share_on_label }} Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+
 <a href="#" class="btn btn--success">Success Button</a> <a href="#" class="btn btn--success">Success Button</a> <a href="#" class="btn btn--success">Success Button</a>
 
 # Combinatorial Optimization
