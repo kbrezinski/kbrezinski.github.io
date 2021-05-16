@@ -1,11 +1,15 @@
 ---
 permalink: /publications/
 title: "Publications"
-classes: wide
+layout: single
+classes:
+  - wide
 toc: true
 toc_label: "List of Publications"
 toc_icon: "file-medical-alt"
-share: true
+toc_sticky: "true"
+
+share: false
 
 feature_row1:
   - image_path: /assets/images/abm-conf.png
