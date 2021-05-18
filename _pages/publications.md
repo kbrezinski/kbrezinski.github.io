@@ -60,6 +60,29 @@ feature_row4:
     btn_label2: "Video"
     btn_class2: "btn--danger"
 
+feature_row-sec1:
+  - image_path: /assets/images/sec1.png
+    alt: "placeholder image 2"
+    title: "Brezinski, K., Gorczyca, B."
+    excerpt: 'March 2019. Chemosphere 225(8)'
+    url: "https://www.researchgate.net/publication/331543633_Multi-spectral_characterization_of_natural_organic_matter_NOM_from_Manitoba_surface_waters_using_high_performance_size_exclusion_chromatography_HPSEC"
+    btn_label: "Full-Text"
+    btn_class: "btn--success"
+    url2: "https://youtu.be/AJWH-rHxcuU"
+    #btn_label2: "Video"
+    #btn_class2: "btn--danger"
+
+feature_row-sec2:
+  - image_path: /assets/images/sec2.png
+    alt: "placeholder image 2"
+    title: "Brezinski, K., Gorczyca, B."
+    excerpt: 'November 2018. Chemosphere 217'
+    url: "https://www.researchgate.net/publication/328683984_An_overview_of_the_uses_of_high_performance_size_exclusion_chromatography_HPSEC_in_the_characterization_of_natural_organic_matter_NOM_in_potable_water_and_ion-exchange_applications"
+    btn_label: "Full-Text"
+    btn_class: "btn--success"
+    url2: "https://youtu.be/AJWH-rHxcuU"
+    #btn_label2: "Video"
+    #btn_class2: "btn--danger"
 ---
 
 For a full list of my publications in conferences and periodicals, please visit my [ResearchGate](https://www.researchgate.net/profile/Kenneth-Brezinski).
@@ -78,6 +101,9 @@ For a full list of my publications in conferences and periodicals, please visit 
 {% include feature_row id="feature_row4" type="left" %}
 
 # Combinatorial Optimization
-# High Performance Size Exclusion Chromatography
 
-# Fourth Paper
+# High Performance Size Exclusion Chromatography
+## Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
+{% include feature_row id="feature_row-sec1" type="left" %}
+## An overview of the uses of high performance size exclusion chromatography (HPSEC) in the characterization of natural organic matter (NOM) in potable water, and ion-exchange applications
+{% include feature_row id="feature_row-sec2" type="left" %}
