@@ -92,9 +92,9 @@ feature_row-tribe:
     url: "https://www.researchgate.net/publication/351512813_An_Adaptive_Tribal_Topology_for_Particle_Swarm_Optimization"
     btn_label: "Full-Text"
     btn_class: "btn--success"
-    #url2: "https://youtu.be/AJWH-rHxcuU"
-    #btn_label2: "Video"
-    #btn_class2: "btn--danger"
+    url2: "https://youtu.be/XDp48-GkkeA"
+    btn_label2: "Video"
+    btn_class2: "btn--danger"
 
 feature_row-tsp:
   - image_path: /assets/images/tsp.png
