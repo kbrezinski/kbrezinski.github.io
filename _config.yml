@@ -81,7 +81,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kbrezinski"
     - label: "Researchgate"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://www.researchgate.net/profile/Kenneth-Brezinski"
     #- label: "Google Scholar"
     #  icon: "fab fa-fw fa-google"

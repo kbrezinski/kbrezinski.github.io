@@ -121,7 +121,7 @@ feature_row-hybrid:
     #btn_class2: "btn--danger"
 ---
 
-For a full list of my publications in conferences and periodicals, please visit my [ResearchGate](https://www.researchgate.net/profile/Kenneth-Brezinski).
+For a full list of my publications in conferences and periodicals, please visit my [<b>ResearchGate</b>](https://www.researchgate.net/profile/Kenneth-Brezinski).
 {: .notice--info}
 
 # Malware Classification
