@@ -138,7 +138,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 # Combinatorial Optimization
 ## An Adaptive Tribal Topology for Particle Swarm Optimization
 {% include feature_row id="feature_row-tribe" type="left" %}
-## Population Based Equilibrium in Hybrid SA/PSO for Combinatorial Optimization: Hybrid SA/PSO for Combinatorial Optimization
+## Population Based Equilibrium in Hybrid SA/PSO for Combinatorial Optimization
 {% include feature_row id="feature_row-tsp" type="left" %}
 ## Cognitive Hybrid PSO/SA Combinatorial Optimization
 {% include feature_row id="feature_row-hybrid" type="left" %}
