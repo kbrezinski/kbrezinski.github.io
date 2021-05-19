@@ -87,7 +87,7 @@ feature_row-sec2:
 feature_row-tribe:
   - image_path: /assets/images/abm.png
     alt: "placeholder image 2"
-    title: "Brezinski, K., Gorczyca, B."
+    title: "Brezinski, K., Ferens, K."
     excerpt: 'April 2020. In book: Transactions on Computational Science & Computational Intelligence, Chapter: Advances in Artificial Intelligence & Applied Cognitive Computing, Publisher: Springer Nature'
     url: "https://www.researchgate.net/publication/351512813_An_Adaptive_Tribal_Topology_for_Particle_Swarm_Optimization"
     btn_label: "Full-Text"
