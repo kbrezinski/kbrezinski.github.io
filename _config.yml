@@ -1,0 +1,138 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Personal Site of Kenneth Brezinski
+email: brezinkk@myumanitoba.ca
+description: >- # this means to ignore newlines until "baseurl:"
+  The personal website of Kennneth Brezinski
+# twitter_username: username
+github_username: kbrezinski
+minimal_mistakes_skin: default
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# logo: "/assets/images/logoBlack.png"
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : "G-NK71GD3CSB"
+    anonymize_ip         : false
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Kenneth Brezinski"
+  avatar : "/assets/images/Brezinski, Kenneth,Photo ID.png"
+  bio    : "Ph.D. student in the Department of Electrical and Computer Engineering at the University of Manitoba"
+  links:
+    - label: "Winnipeg, MB"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: ""
+    - label: "brezinkk[at]umanitoba.ca"
+      icon: "far fa-fw fa-envelope"
+      url: ""
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kenneth-brezinski-b65a05136/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kbrezinski"
+    - label: "Researchgate"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://www.researchgate.net/profile/Kenneth-Brezinski/research"
+    #- label: "Google Scholar"
+    #  icon: "fab fa-fw fa-google"
+    #  url: "https://scholar.google.com/citations?hl=en&user=8se90q8AAAAJ"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/user/kenbobcorn/videos"
+    #- label: "Medium"
+    #  icon: "fab fa-fw fa-medium"
+    #  url: "https://kenbrezinski.medium.com/"
+
+# footer:
+#   links:
+#     - label: "LinkedIn"
+#       icon: "fab fa-linkedin"
+#       url: "https://www.linkedin.com/in/kenneth-brezinski-b65a05136/"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/kbrezinski"
+#     - label: "Google Scholar"
+#       icon: "fab fa-google"
+#       url: "https://scholar.google.com/citations?hl=en&user=8se90q8AAAAJ"
+#     - label: "Youtube"
+#       icon: "fab fa-youtube"
+#       url: "https://www.youtube.com/user/kenbobcorn/videos"
+
+
+defaults:
+  # _posts
+  - scope:
+      path: "_pages"
+      type: publications
+    values:
+      layout: single
+      author_profile: false
+      #read_time: true
+      #comments: true
+      #share: true
+      #related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
