@@ -31,7 +31,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-# logo: "/assets/images/logoBlack.png"
+logo: "/assets/images/logo-upd.png"
 
 # Analytics
 analytics:
@@ -63,6 +63,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-target-blank
 
 author:
   name   : "Kenneth Brezinski"
@@ -91,7 +92,7 @@ author:
       icon: "fab fa-fw fa-medium"
       url: "https://kenbrezinski.medium.com/"
     - label: "Streamlit App Library"
-      icon: "fa-brands fa-app-store"
+      icon: "fab fa-fw fa-app-store"
       url: "https://kenneth-app.herokuapp.com"
 
 # footer:

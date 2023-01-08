@@ -101,7 +101,7 @@ feature_row-sec2:
     alt: "placeholder image 2"
     title: "Brezinski, K., Gorczyca, B."
     excerpt: 'November 2018. Chemosphere 217. DOI: 10.1016/j.chemosphere.2018.10.028'
-    url: "https://www.researchgate.net/publication/328683984_An_overview_of_the_uses_of_high_performance_size_exclusion_chromatography_HPSEC_in_the_characterization_of_natural_organic_matter_NOM_in_potable_water_and_ion-exchange_applications"
+    url: /assets/Documents/Brezinski&Gorczyca-review.pdf
     btn_label: "Full-Text"
     btn_class: "btn--success"
     #url2: "https://youtu.be/AJWH-rHxcuU"
@@ -148,7 +148,7 @@ feature_row-covid:
   - image_path: /assets/images/covid.png
     alt: "placeholder image 2"
     title: "Rahman, M., Brezinski, K., Ferens K."
-    excerpt: "Conference: The 6th International Conference on Applied Cognitive Computing (ACC'22: July 25-28, 2022, USA)At: Las Vegas, USA"
+    excerpt: "May2022. Conference: The 6th International Conference on Applied Cognitive Computing (ACC'22: July 25-28, 2022, USA) At: Las Vegas, USA"
     url: "https://www.researchgate.net/publication/366957142_Classifying_SARS-CoV-2_and_Common_Co-infections_from_Genome_Assemblies"
     btn_label: "Full-Text"
     btn_class: "btn--success"
