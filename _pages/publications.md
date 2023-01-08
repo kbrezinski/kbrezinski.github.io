@@ -92,9 +92,9 @@ feature_row-sec1:
     url: "https://www.researchgate.net/publication/331543633_Multi-spectral_characterization_of_natural_organic_matter_NOM_from_Manitoba_surface_waters_using_high_performance_size_exclusion_chromatography_HPSEC"
     btn_label: "Full-Text"
     btn_class: "btn--success"
-    #url2: "https://youtu.be/AJWH-rHxcuU"
-    #btn_label2: "Video"
-    #btn_class2: "btn--danger"
+    url2: "https://youtu.be/vVFlmJ32Ao0"
+    btn_label2: "Video"
+    btn_class2: "btn--danger"
 
 feature_row-sec2:
   - image_path: /assets/images/sec2.png
@@ -143,6 +143,18 @@ feature_row-hybrid:
     #url2: "https://youtu.be/AJWH-rHxcuU"
     #btn_label2: "Video"
     #btn_class2: "btn--danger"
+
+feature_row-covid:
+  - image_path: /assets/images/covid.png
+    alt: "placeholder image 2"
+    title: "Rahman, M., Brezinski, K., Ferens K."
+    excerpt: 'Conference: The 6th International Conference on Applied Cognitive Computing (ACC'22: July 25-28, 2022, USA)At: Las Vegas, USA'
+    url: "https://www.researchgate.net/publication/366957142_Classifying_SARS-CoV-2_and_Common_Co-infections_from_Genome_Assemblies"
+    btn_label: "Full-Text"
+    btn_class: "btn--success"
+    #url2: "https://youtu.be/AJWH-rHxcuU"
+    #btn_label2: "Video"
+    #btn_class2: "btn--danger"
 ---
 
 For a full list of my publications in conferences and periodicals, please visit my [<b>ResearchGate</b>](https://www.researchgate.net/profile/Kenneth-Brezinski/research).
@@ -169,6 +181,10 @@ For a full list of my publications in conferences and periodicals, please visit 
 {% include feature_row id="feature_row-tsp" type="left" %}
 ## Cognitive Hybrid PSO/SA Combinatorial Optimization
 {% include feature_row id="feature_row-hybrid" type="left" %}
+
+# COVID-19
+## Classifying SARS-CoV-2 and Common Co-infections from Genome Assemblies
+{% include feature_row id="feature_row-covid" type="left" %}
 
 # High Performance Size Exclusion Chromatography
 ## Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
