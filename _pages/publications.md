@@ -89,7 +89,7 @@ feature_row-sec1:
     alt: "placeholder image 2"
     title: "Brezinski, K., Gorczyca, B."
     excerpt: 'March 2019, Chemosphere 225(8). DOI: 10.1016/j.chemosphere.2019.02.176'
-    url: "https://www.researchgate.net/publication/331543633_Multi-spectral_characterization_of_natural_organic_matter_NOM_from_Manitoba_surface_waters_using_high_performance_size_exclusion_chromatography_HPSEC"
+    url: /assets/Documents/Brezinski&Gorczyca-app.pdf
     btn_label: "Full-Text"
     btn_class: "btn--success"
     url2: "https://youtu.be/vVFlmJ32Ao0"
