@@ -84,15 +84,15 @@ author:
     - label: "Researchgate"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://www.researchgate.net/profile/Kenneth-Brezinski/research"
-    #- label: "Google Scholar"
-    #  icon: "fab fa-fw fa-google"
-    #  url: "https://scholar.google.com/citations?hl=en&user=8se90q8AAAAJ"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/user/kenbobcorn/videos"
-    #- label: "Medium"
-    #  icon: "fab fa-fw fa-medium"
-    #  url: "https://kenbrezinski.medium.com/"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://kenbrezinski.medium.com/"
+    - label: "Streamlit App Library"
+      icon: "fa-brands fa-app-store"
+      url: "https://kenneth-app.herokuapp.com"
 
 # footer:
 #   links:

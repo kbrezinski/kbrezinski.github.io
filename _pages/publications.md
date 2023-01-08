@@ -136,7 +136,7 @@ feature_row-hybrid:
   - image_path: /assets/images/abm-conf.png
     alt: "placeholder image 2"
     title: "Brezinski, K., Ferens K."
-    excerpt: 'July 2019. In book: Transactions on Computational Science & Computational Intelligence, Chapter: Advances in Security, Networks, and Internet of Things, Publisher: Springer Nature'
+    excerpt: "July 2019. In book: Transactions on Computational Science & Computational Intelligence, Chapter: Advances in Security, Networks, and Internet of Things, Publisher: Springer Nature"
     url: "https://www.researchgate.net/publication/334281752_Cognitive_Hybrid_PSOSA_Combinatorial_Optimization"
     btn_label: "Full-Text"
     btn_class: "btn--success"
@@ -148,7 +148,7 @@ feature_row-covid:
   - image_path: /assets/images/covid.png
     alt: "placeholder image 2"
     title: "Rahman, M., Brezinski, K., Ferens K."
-    excerpt: 'Conference: The 6th International Conference on Applied Cognitive Computing (ACC'22: July 25-28, 2022, USA)At: Las Vegas, USA'
+    excerpt: "Conference: The 6th International Conference on Applied Cognitive Computing (ACC'22: July 25-28, 2022, USA)At: Las Vegas, USA"
     url: "https://www.researchgate.net/publication/366957142_Classifying_SARS-CoV-2_and_Common_Co-infections_from_Genome_Assemblies"
     btn_label: "Full-Text"
     btn_class: "btn--success"
