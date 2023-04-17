@@ -12,6 +12,19 @@ toc_sticky: false
 
 share: false
 
+## Cyber Security
+feature_row-malware-gnn:
+  - image_path: /assets/images/malware-gnn.png
+    alt: "placeholder image 2"
+    title: "Brezinski, K., Ferens, K."
+    excerpt: 'April 2023. Conference: ACC23; Under consideration'
+    url: /assets/Documents/CSCE_graph_malware.pdf
+    btn_label: "Full-Text"
+    btn_class: "btn--success"
+    #url2: "https://youtu.be/zhBFulmNhFo"
+    #btn_label2: "Video"
+    #btn_class2: "btn--danger"
+
 feature_row-complex:
   - image_path: /assets/images/fd.png
     alt: "placeholder image 2"
@@ -84,6 +97,8 @@ feature_row-cnn:
     btn_label2: "Video"
     btn_class2: "btn--danger"
 
+## Environmental Engineering
+
 feature_row-sec1:
   - image_path: /assets/images/sec1.png
     alt: "placeholder image 2"
@@ -108,6 +123,45 @@ feature_row-sec2:
     #btn_label2: "Video"
     #btn_class2: "btn--danger"
 
+feature_row-ozonation:
+  - image_path: /assets/images/ozonation.png
+    alt: "placeholder image 2"
+    title: "Sadrnourmohamadi, M., Brezinski, K., Gorczyca, B."
+    excerpt: 'January 2020. Water Quality Research Journal of Canada 55(2). DOI: 10.2166/wqrj.2020.011'
+    url: "https://www.researchgate.net/publication/338411877_Ozonation_of_natural_organic_matter_and_aquatic_humic_substances_the_effects_of_ozone_on_the_structural_characteristics_and_subsequent_trihalomethane_formation_potential"
+    btn_label: "Full-Text"
+    btn_class: "btn--success"
+    #url2: "https://youtu.be/AJWH-rHxcuU"
+    #btn_label2: "Video"
+    #btn_class2: "btn--danger"
+
+feature_row-rainy-river:
+  - image_path: /assets/images/rainy-river.png
+    alt: "placeholder image 2"
+    title: "Brezinski, K., Gorczyca, B., Sadrnourmohamadi, M."
+    excerpt: "November 2018. Water Quality Research Journal of Canada 54(20). DOI: 10.2166/wqrj.2018.134"
+    url: "https://www.researchgate.net/publication/329042227_Ion-Exchange_for_Trihalomethane_control_in_potable_water_treatment_-_A_municipal_water_treatment_case_study_in_Rainy_River_Ontario_Canada"
+    btn_label: "Full-Text"
+    btn_class: "btn--success"
+    #url2: "https://youtu.be/AJWH-rHxcuU"
+    #btn_label2: "Video"
+    #btn_class2: "btn--danger"
+
+feature_row-lead:
+  - image_path: /assets/images/lead.png
+    alt: "placeholder image 2"
+    title: "Winning, L., Gorczyca, B., Brezinski, K."
+    excerpt: 'February 2017. Water Quality Research Journal of Canada 52(1). DOI: 10.2166/wqrjc.2017.028'
+    url: "https://www.researchgate.net/publication/313424513_Effect_of_total_organic_carbon_and_aquatic_humic_substances_on_the_occurrence_of_lead_at_the_tap"
+    btn_label: "Full-Text"
+    btn_class: "btn--success"
+    #url2: "https://youtu.be/AJWH-rHxcuU"
+    #btn_label2: "Video"
+    #btn_class2: "btn--danger"
+
+
+
+## Combinatorial Optimization
 feature_row-tribe:
   - image_path: /assets/images/abm.png
     alt: "placeholder image 2"
@@ -144,6 +198,9 @@ feature_row-hybrid:
     #btn_label2: "Video"
     #btn_class2: "btn--danger"
 
+
+
+## COVID Papers
 feature_row-covid:
   - image_path: /assets/images/covid.png
     alt: "placeholder image 2"
@@ -159,6 +216,12 @@ feature_row-covid:
 
 For a full list of my publications in conferences and periodicals, please visit my [<b>ResearchGate</b>](https://www.researchgate.net/profile/Kenneth-Brezinski/research).
 {: .notice--info}
+
+# High Performance Size Exclusion Chromatography
+## Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
+{% include feature_row id="feature_row-sec1" type="left" %}
+## An overview of the uses of high performance size exclusion chromatography (HPSEC) in the characterization of natural organic matter (NOM) in potable water, and ion-exchange applications
+{% include feature_row id="feature_row-sec2" type="left" %}
 
 # Malware Classification
 ## Incorporating Topological Complexity into a Multilayer Perceptron
@@ -185,9 +248,3 @@ For a full list of my publications in conferences and periodicals, please visit 
 # COVID-19
 ## Classifying SARS-CoV-2 and Common Co-infections from Genome Assemblies
 {% include feature_row id="feature_row-covid" type="left" %}
-
-# High Performance Size Exclusion Chromatography
-## Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
-{% include feature_row id="feature_row-sec1" type="left" %}
-## An overview of the uses of high performance size exclusion chromatography (HPSEC) in the characterization of natural organic matter (NOM) in potable water, and ion-exchange applications
-{% include feature_row id="feature_row-sec2" type="left" %}
