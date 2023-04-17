@@ -217,18 +217,6 @@ feature_row-covid:
 For a full list of my publications in conferences and periodicals, please visit my [<b>ResearchGate</b>](https://www.researchgate.net/profile/Kenneth-Brezinski/research).
 {: .notice--info}
 
-## Environmental Engineering
-### Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
-{% include feature_row id="feature_row-sec1" type="left" %}
-### An overview of the uses of high performance size exclusion chromatography (HPSEC) in the characterization of natural organic matter (NOM) in potable water, and ion-exchange applications
-{% include feature_row id="feature_row-sec2" type="left" %}
-### Ozonation of natural organic matter and aquatic humic substances: the effects of ozone on the structural characteristics and subsequent trihalomethane formation potential
-{% include feature_row id="feature_row-ozonation" type="left" %}
-### Ion-Exchange for Trihalomethane control in potable water treatment – A municipal water treatment case study in Rainy River, Ontario, Canada
-{% include feature_row id="feature_row-rainy-river" type="left" %}
-### Effect of total organic carbon and aquatic humic substances on the occurrence of lead at the tap
-{% include feature_row id="feature_row-lead" type="left" %}
-
 ## Malware Classification
 ### Graph-Oriented Modelling of Process Event Activity
 {% include feature_row id="feature_row-malware-gnn" type="left" %}
@@ -244,6 +232,18 @@ For a full list of my publications in conferences and periodicals, please visit 
 {% include feature_row id="feature_row-rnn" type="left" %}
 ### Complexity-Based Convolutional Neural Network for Malware Classification
 {% include feature_row id="feature_row-cnn" type="left" %}
+
+## Environmental Engineering
+### Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
+{% include feature_row id="feature_row-sec1" type="left" %}
+### An overview of the uses of high performance size exclusion chromatography (HPSEC) in the characterization of natural organic matter (NOM) in potable water, and ion-exchange applications
+{% include feature_row id="feature_row-sec2" type="left" %}
+### Ozonation of natural organic matter and aquatic humic substances: the effects of ozone on the structural characteristics and subsequent trihalomethane formation potential
+{% include feature_row id="feature_row-ozonation" type="left" %}
+### Ion-Exchange for Trihalomethane control in potable water treatment – A municipal water treatment case study in Rainy River, Ontario, Canada
+{% include feature_row id="feature_row-rainy-river" type="left" %}
+### Effect of total organic carbon and aquatic humic substances on the occurrence of lead at the tap
+{% include feature_row id="feature_row-lead" type="left" %}
 
 ## Combinatorial Optimization
 ### An Adaptive Tribal Topology for Particle Swarm Optimization
