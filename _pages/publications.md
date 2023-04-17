@@ -218,7 +218,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 {: .notice--info}
 
 # Environmental Engineering
-## Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
+### Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
 {% include feature_row id="feature_row-sec1" type="left" %}
 ## An overview of the uses of high performance size exclusion chromatography (HPSEC) in the characterization of natural organic matter (NOM) in potable water, and ion-exchange applications
 {% include feature_row id="feature_row-sec2" type="left" %}
