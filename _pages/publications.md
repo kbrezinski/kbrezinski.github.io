@@ -41,7 +41,7 @@ feature_row-review-2:
   - image_path: /assets/images/review-2.png
     alt: "placeholder image 2"
     title: "Brezinski, K., Ferens, K."
-    excerpt: 'February 2022. Journal: Array; Under consideration'
+    excerpt: 'November 2022. Security and Communication Networks; Under revision'
     url: "https://www.researchgate.net/publication/357255382_Metamorphic_Malware_and_Obfuscation_-A_Survey_of_Techniques_Variants_and_Generation_Kits"
     btn_label: "Full-Text"
     btn_class: "btn--success"
@@ -124,7 +124,7 @@ feature_row-sec2:
     #btn_class2: "btn--danger"
 
 feature_row-ozonation:
-  - image_path: /assets/images/ozonation.png
+  - image_path: /assets/images/ozonation.jpg
     alt: "placeholder image 2"
     title: "Sadrnourmohamadi, M., Brezinski, K., Gorczyca, B."
     excerpt: 'January 2020. Water Quality Research Journal of Canada 55(2). DOI: 10.2166/wqrj.2020.011'
@@ -136,7 +136,7 @@ feature_row-ozonation:
     #btn_class2: "btn--danger"
 
 feature_row-rainy-river:
-  - image_path: /assets/images/rainy-river.png
+  - image_path: /assets/images/rainy-river.jpg
     alt: "placeholder image 2"
     title: "Brezinski, K., Gorczyca, B., Sadrnourmohamadi, M."
     excerpt: "November 2018. Water Quality Research Journal of Canada 54(20). DOI: 10.2166/wqrj.2018.134"
@@ -217,7 +217,7 @@ feature_row-covid:
 For a full list of my publications in conferences and periodicals, please visit my [<b>ResearchGate</b>](https://www.researchgate.net/profile/Kenneth-Brezinski/research).
 {: .notice--info}
 
-# High Performance Size Exclusion Chromatography
+# Environmental Engineering
 ## Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
 {% include feature_row id="feature_row-sec1" type="left" %}
 ## An overview of the uses of high performance size exclusion chromatography (HPSEC) in the characterization of natural organic matter (NOM) in potable water, and ion-exchange applications
