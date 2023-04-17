@@ -217,42 +217,42 @@ feature_row-covid:
 For a full list of my publications in conferences and periodicals, please visit my [<b>ResearchGate</b>](https://www.researchgate.net/profile/Kenneth-Brezinski/research).
 {: .notice--info}
 
-# Environmental Engineering
+## Environmental Engineering
 ### Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
 {% include feature_row id="feature_row-sec1" type="left" %}
-## An overview of the uses of high performance size exclusion chromatography (HPSEC) in the characterization of natural organic matter (NOM) in potable water, and ion-exchange applications
+### An overview of the uses of high performance size exclusion chromatography (HPSEC) in the characterization of natural organic matter (NOM) in potable water, and ion-exchange applications
 {% include feature_row id="feature_row-sec2" type="left" %}
-## Ozonation of natural organic matter and aquatic humic substances: the effects of ozone on the structural characteristics and subsequent trihalomethane formation potential
+### Ozonation of natural organic matter and aquatic humic substances: the effects of ozone on the structural characteristics and subsequent trihalomethane formation potential
 {% include feature_row id="feature_row-ozonation" type="left" %}
-## Ion-Exchange for Trihalomethane control in potable water treatment – A municipal water treatment case study in Rainy River, Ontario, Canada
+### Ion-Exchange for Trihalomethane control in potable water treatment – A municipal water treatment case study in Rainy River, Ontario, Canada
 {% include feature_row id="feature_row-rainy-river" type="left" %}
-## Effect of total organic carbon and aquatic humic substances on the occurrence of lead at the tap
+### Effect of total organic carbon and aquatic humic substances on the occurrence of lead at the tap
 {% include feature_row id="feature_row-lead" type="left" %}
 
-# Malware Classification
-## Graph-Oriented Modelling of Process Event Activity
+## Malware Classification
+### Graph-Oriented Modelling of Process Event Activity
 {% include feature_row id="feature_row-malware-gnn" type="left" %}
-## Incorporating Topological Complexity into a Multilayer Perceptron
+### Incorporating Topological Complexity into a Multilayer Perceptron
 {% include feature_row id="feature_row-complex" type="left" %}
-## Metamorphic Malware and Obfuscation -A Survey of Techniques, Variants and Generation Kits
+### Metamorphic Malware and Obfuscation -A Survey of Techniques, Variants and Generation Kits
 {% include feature_row id="feature_row-review-2" type="left" %}
-## Transformers - Malware in Disguise
+### Transformers - Malware in Disguise
 {% include feature_row id="feature_row-trans" type="left" %}
-## Sandy Toolbox: A Framework for Dynamic Malware Analysis and Model Development
+### Sandy Toolbox: A Framework for Dynamic Malware Analysis and Model Development
 {% include feature_row id="feature_row-review" type="left" %}
-## Complexity-Based Lambda Layer for Time Series Prediction
+### Complexity-Based Lambda Layer for Time Series Prediction
 {% include feature_row id="feature_row-rnn" type="left" %}
-## Complexity-Based Convolutional Neural Network for Malware Classification
+### Complexity-Based Convolutional Neural Network for Malware Classification
 {% include feature_row id="feature_row-cnn" type="left" %}
 
-# Combinatorial Optimization
-## An Adaptive Tribal Topology for Particle Swarm Optimization
+## Combinatorial Optimization
+### An Adaptive Tribal Topology for Particle Swarm Optimization
 {% include feature_row id="feature_row-tribe" type="left" %}
-## Population Based Equilibrium in Hybrid SA/PSO for Combinatorial Optimization
+### Population Based Equilibrium in Hybrid SA/PSO for Combinatorial Optimization
 {% include feature_row id="feature_row-tsp" type="left" %}
-## Cognitive Hybrid PSO/SA Combinatorial Optimization
+### Cognitive Hybrid PSO/SA Combinatorial Optimization
 {% include feature_row id="feature_row-hybrid" type="left" %}
 
-# COVID-19
-## Classifying SARS-CoV-2 and Common Co-infections from Genome Assemblies
+## COVID-19
+### Classifying SARS-CoV-2 and Common Co-infections from Genome Assemblies
 {% include feature_row id="feature_row-covid" type="left" %}
