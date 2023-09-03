@@ -17,20 +17,20 @@ feature_row-malware-gnn:
   - image_path: /assets/images/malware-gnn.png
     alt: "placeholder image 2"
     title: "Brezinski, K., Ferens, K."
-    excerpt: 'April 2023. Conference: ACC23; Under consideration'
-    url: /assets/Documents/CSCE_graph_malware.pdf
+    excerpt: 'July 2023. Conference: ACC23 - The 7th International Conference on Applied Cognitive Computing At: Las Vegas, USA'
+    url: "https://www.researchgate.net/publication/372526046_Graph-Oriented_Modelling_of_Process_Event_Activity_for_the_Detection_of_Malware"
     btn_label: "Full-Text"
     btn_class: "btn--success"
-    #url2: "https://youtu.be/zhBFulmNhFo"
-    #btn_label2: "Video"
-    #btn_class2: "btn--danger"
+    url2: "https://youtu.be/N0kEoZlkzK4?si=D1RLhqNpM_wbSD2i"
+    btn_label2: "Video"
+    btn_class2: "btn--danger"
 
 feature_row-complex:
   - image_path: /assets/images/fd.png
     alt: "placeholder image 2"
     title: "Brezinski, K., Ferens, K."
-    excerpt: 'March 2022. Conference: ACC22 - The 6th International Conference on Applied Cognitive Computing; Under consideration'
-    url: "https://www.researchgate.net/publication/359598548_Incorporating_Topological_Complexity_into_a_Multilayer_Perceptron"
+    excerpt: 'March 2022. Conference: ACC22 - The 6th International Conference on Applied Cognitive Computing At: Las Vegas, USA'
+    url: "https://www.researchgate.net/publication/370182414_Incorporating_Topological_Complexity_into_a_Multilayer_Perceptron"
     btn_label: "Full-Text"
     btn_class: "btn--success"
     url2: "https://youtu.be/zhBFulmNhFo"
@@ -41,8 +41,8 @@ feature_row-review-2:
   - image_path: /assets/images/review-2.png
     alt: "placeholder image 2"
     title: "Brezinski, K., Ferens, K."
-    excerpt: 'November 2022. Security and Communication Networks; Under revision'
-    url: "https://www.researchgate.net/publication/357255382_Metamorphic_Malware_and_Obfuscation_-A_Survey_of_Techniques_Variants_and_Generation_Kits"
+    excerpt: 'September 2023. Security and Communication Networks, Vol. 2023, Article ID 8227751'
+    url: "https://www.hindawi.com/journals/scn/2023/8227751/?utm_medium=author&utm_source=Hindawi"
     btn_label: "Full-Text"
     btn_class: "btn--success"
     #url2: "https://youtu.be/8W5th_WNTcQ"
@@ -220,10 +220,10 @@ For a full list of my publications in conferences and periodicals, please visit 
 ## Malware Classification
 ### Graph-Oriented Modelling of Process Event Activity
 {% include feature_row id="feature_row-malware-gnn" type="left" %}
-### Incorporating Topological Complexity into a Multilayer Perceptron
-{% include feature_row id="feature_row-complex" type="left" %}
 ### Metamorphic Malware and Obfuscation -A Survey of Techniques, Variants and Generation Kits
 {% include feature_row id="feature_row-review-2" type="left" %}
+### Incorporating Topological Complexity into a Multilayer Perceptron
+{% include feature_row id="feature_row-complex" type="left" %}
 ### Transformers - Malware in Disguise
 {% include feature_row id="feature_row-trans" type="left" %}
 ### Sandy Toolbox: A Framework for Dynamic Malware Analysis and Model Development
