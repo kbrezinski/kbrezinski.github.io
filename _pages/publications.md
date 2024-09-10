@@ -13,6 +13,12 @@ toc_sticky: false
 share: false
 
 ## Cyber Security
+feature_row-ensemble:
+  - image_path: /assets/images/ensemble.png
+    alt: "placeholder image 2"
+    title: "Brezinski, K., Ferens, K."
+    excerpt: 'December 2024 (expected). Cybersecurity: Cyber Defense, Privacy and Cyber Warfare. De Gruyter (book); invited, in progress'
+
 feature_row-malware-gnn:
   - image_path: /assets/images/malware-gnn.png
     alt: "placeholder image 2"
@@ -218,6 +224,10 @@ For a full list of my publications in conferences and periodicals, please visit 
 {: .notice--info}
 
 ## Malware Classification
+### Graph-Ensemble Methods for Generating Malware Behavioral Signature
+{% include feature_row id="feature_row-ensemble" type="left" %}
+### Complexity-Based Graph Attention Network for Metamorphic Malware Detection
+{% include feature_row id="feature_row-phd-thesis" type="left" %}
 ### Graph-Oriented Modelling of Process Event Activity
 {% include feature_row id="feature_row-malware-gnn" type="left" %}
 ### Metamorphic Malware and Obfuscation -A Survey of Techniques, Variants and Generation Kits
