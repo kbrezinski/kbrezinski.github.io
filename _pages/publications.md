@@ -30,7 +30,7 @@ feature_row-phd-thesis:
     url2: "https://youtu.be/lLkvkGeO1mY?si=0tMVk5BYwTVUPw38"
     btn_label2: "Video"
     btn_class2: "btn--danger"
-    url2: "https://youtu.be/pboNn5NF0sc?si=_pLXid1n4lR2yrBJ"
+    url3: "https://youtu.be/pboNn5NF0sc?si=_pLXid1n4lR2yrBJ"
     btn_label3: "Code Review"
     btn_class3: "btn--info"
 
