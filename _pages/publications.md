@@ -140,9 +140,9 @@ feature_row-sec2:
     url: /assets/Documents/Brezinski&Gorczyca-review.pdf
     btn_label: "Full-Text"
     btn_class: "btn--success"
-    #url2: "https://youtu.be/AJWH-rHxcuU"
-    #btn_label2: "Video"
-    #btn_class2: "btn--danger"
+    url2: "https://youtu.be/5KEZBtSHoYE?si=zx-_VuQ5X1q04lSQ"
+    btn_label2: "Video"
+    btn_class2: "btn--danger"
 
 feature_row-ozonation:
   - image_path: /assets/images/ozonation.jpg
@@ -215,9 +215,9 @@ feature_row-hybrid:
     url: "https://www.researchgate.net/publication/334281752_Cognitive_Hybrid_PSOSA_Combinatorial_Optimization"
     btn_label: "Full-Text"
     btn_class: "btn--success"
-    #url2: "https://youtu.be/AJWH-rHxcuU"
-    #btn_label2: "Video"
-    #btn_class2: "btn--danger"
+    url2: "https://youtu.be/JXqOPNZKggM?si=zD2fxcV9uF8zqiPM"
+    btn_label2: "Video"
+    btn_class2: "btn--danger"
 
 
 
