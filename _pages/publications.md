@@ -17,7 +17,22 @@ feature_row-ensemble:
   - image_path: /assets/images/ensemble.png
     alt: "placeholder image 2"
     title: "Brezinski, K., Ferens, K."
-    excerpt: 'December 2024 (expected). Cybersecurity: Cyber Defense, Privacy and Cyber Warfare. De Gruyter (book); invited, in progress'
+    excerpt: 'December 2024 (exp.). Cybersecurity: Cyber Defense, Privacy and Cyber Warfare. De Gruyter (book); invited, in progress'
+
+feature_row-phd-thesis:
+  - image_path: /assets/images/GAToverview.png
+    alt: "placeholder image 2"
+    title: "Brezinski, K."
+    excerpt: 'PhD Thesis Dissertation, University of Manitoba DOI: 10.13140/RG.2.2.18773.03043'
+    url: "https://www.researchgate.net/publication/383878495_Complexity-Based_Graph_Attention_Network_for_Metamorphic_Malware_Detection"
+    btn_label: "Full-Text"
+    btn_class: "btn--success"
+    url2: "https://youtu.be/lLkvkGeO1mY?si=0tMVk5BYwTVUPw38"
+    btn_label2: "Video"
+    btn_class2: "btn--danger"
+    url2: "https://youtu.be/pboNn5NF0sc?si=_pLXid1n4lR2yrBJ"
+    btn_label2: "Code Review"
+    btn_class2: "btn--primary"
 
 feature_row-malware-gnn:
   - image_path: /assets/images/malware-gnn.png
