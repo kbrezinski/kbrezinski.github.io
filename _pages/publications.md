@@ -31,7 +31,7 @@ feature_row-phd-thesis:
     btn_label2: "Video"
     btn_class2: "btn--danger"
     url2: "https://youtu.be/pboNn5NF0sc?si=_pLXid1n4lR2yrBJ"
-    btn_label2: "Code Review"
+    btn_label2: "Code"
     btn_class2: "btn--primary"
 
 feature_row-malware-gnn:
