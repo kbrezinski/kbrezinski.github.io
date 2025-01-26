@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Kenneth Brezinski"
   avatar : "/assets/images/Brezinski, Kenneth,Photo ID.png"
-  bio    : "W&WW Treatment Designer @ WSP 🌊 \nCyber Security Researcher at the University of Manitoba 🤖"
+  bio    : "Instrumentation and Controls Designer @ WSP 🌊 \nCyber Security Researcher at the University of Manitoba 🤖"
   links:
     - label: "Winnipeg, MB"
       icon: "fas fa-fw fa-map-marker-alt"
