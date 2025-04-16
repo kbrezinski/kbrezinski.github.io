@@ -3,6 +3,9 @@ permalink: /students/
 title: "Students"
 layout: single
 classes: wide
+header:
+  overlay: false
+  show_title: false
 ---
 
 <style>
