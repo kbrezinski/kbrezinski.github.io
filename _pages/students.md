@@ -22,8 +22,8 @@ classes: wide
 }
 
 .student-card img {
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 120px;
   object-fit: cover;
   /* border-radius: 50%; */
 }
