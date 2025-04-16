@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-layout: single #home, splash (disables toc)
+layout: single
 author_profile: true
 classes: wide
 
@@ -17,7 +17,10 @@ feature_row-ensemble:
   - image_path: /assets/images/ensemble.png
     alt: "placeholder image 2"
     title: "Brezinski, K., Ferens, K."
-    excerpt: 'December 2024 (exp.). Cybersecurity: Cyber Defense, Privacy and Cyber Warfare. De Gruyter (book); invited, in progress'
+    excerpt: 'December 2024. Cybersecurity: Cyber Defense, Privacy and Cyber Warfare. De Gruyter (book); accepted'
+    url: "https://www.researchgate.net/publication/384443900_Graph-Ensemble_Methods_for_Generating_Malware_Behavioral_Signatures"
+    btn_label: "Full-Text"
+    btn_class: "btn--success"
 
 feature_row-phd-thesis:
   - image_path: /assets/images/GAToverview.png
