@@ -1,6 +1,6 @@
 ---
 permalink: /students/
-title: "Students"
+title: null
 layout: single
 classes: wide
 header:
