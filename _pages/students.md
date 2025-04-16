@@ -6,5 +6,5 @@ author_profile: true
 classes: wide
 
 ## Alumni
-Michael Guevarrra
+Michael Guevarra
 

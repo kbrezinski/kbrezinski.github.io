@@ -70,7 +70,7 @@ author:
   avatar : "/assets/images/Brezinski, Kenneth,Photo ID.png"
   bio    : "Instrumentation and Controls Designer @ WSP 🌊 \nCyber Security Researcher at the University of Manitoba 🤖"
   links:
-    - label: "Winnipeg, MB"
+    - label: "Vancouver, BC"
       icon: "fas fa-fw fa-map-marker-alt"
       url: ""
     - label: "brezinkk[at]umanitoba.ca"
@@ -91,9 +91,6 @@ author:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://kenbrezinski.medium.com/"
-    - label: "Streamlit App Library"
-      icon: "fab fa-fw fa-app-store"
-      url: "https://kenneth-app.herokuapp.com"
 
 # footer:
 #   links:
