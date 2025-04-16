@@ -25,7 +25,7 @@ classes: wide
   width: 80px;
   height: 80px;
   object-fit: cover;
-  border-radius: 50%;
+  /* border-radius: 50%; */
 }
 
 .student-info {
@@ -50,12 +50,12 @@ classes: wide
 
 ---
 
-## Alumni
+## Alumni 
 
 <div class="students-grid">
 
 <div class="student-card">
-  <img src="/assets/images/students/michael_guevarra.jpeg" alt="Michael Guevarra">
+  <img src="/assets/images/students/michael.jpeg" alt="Michael Guevarra">
   <div class="student-info">
     <a href="https://www.linkedin.com/in/michael-guevarra/"><strong>Michael Guevarra</strong></a>
     <span>Product Owner at Illumia Labs</span>
@@ -63,10 +63,10 @@ classes: wide
 </div>
 
 <div class="student-card">
-  <img src="/assets/images/students/_.jpg" alt="Gabriel Barnabé">
+  <img src="/assets/images/students/place.png" alt="Gabriel Barnabé">
   <div class="student-info">
     <strong>Gabriel Barnabé</strong>
-    <span>-</span>
+    <span>Summer Research Student</span>
   </div>
 </div>
 
