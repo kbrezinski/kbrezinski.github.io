@@ -49,6 +49,16 @@ header:
   </div>
 </div>
 
+<div class="student-card">
+  <img src="/assets/images/students/aklaq.jpg" alt="Akhlaq Rifat Rahman
+">
+  <div class="student-info">
+    <a href="https://www.linkedin.com/in/md-akhlaq-rifat-rahman-8860b9132/"><strong>Akhlaq Rifat Rahman
+</strong></a>
+    <span>MSc. Student (Winter 2026)</span>
+  </div>
+</div>
+
 </div>
 
 ---
