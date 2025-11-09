@@ -19,7 +19,7 @@ feature_row-chaos-gradients:
     excerpt: 'May 2025. World Congress in Computer Science, Computer Engineering and Applied Computing. Springer Nature; in press'
     url: "https://www.researchgate.net/publication/392031118_Harnessing_Deterministic_Chaos_for_Adaptive_Gradient_Optimization"
     btn_label: "Full-Text"
-    #btn_class: "btn--success"
+    btn_class: "btn--success"
 
 feature_row-logistic-dropout:
   - image_path: /assets/images/logistic_map.png
@@ -28,7 +28,7 @@ feature_row-logistic-dropout:
     excerpt: 'October 2025 International Journal of Data Science and Analytics.Springer Nature; revision requested'
     url: "https://www.researchgate.net/publication/395773048_Logistic_Dropout_A_Soft_Dropout_Mechanism_via_the_Logistic_Map"
     btn_label: "Full-Text"
-    #btn_class: "btn--success"
+    btn_class: "btn--success"
 
 feature_row-ensemble:
   - image_path: /assets/images/ensemble.png
@@ -258,9 +258,9 @@ feature_row-covid:
 For a full list of my publications in conferences and periodicals, please visit my [<b>ResearchGate</b>](https://www.researchgate.net/profile/Kenneth-Brezinski/research).
 {: .notice--info}
 
-## Deep Learning and Complexity Analysis
+# Deep Learning and Complexity Analysis
 ### Logistic Dropout: A Soft Dropout Mechanism via the Logistic Map
-{% include feature_row id="feature_row-logistic-dropout:" type="left" %}
+{% include feature_row id="feature_row-logistic-dropout" type="left" %}
 ### Harnessing Deterministic Chaos for Adaptive Gradient Optimization
 {% include feature_row id="feature_row-chaos-gradients" type="left" %}
 ### Incorporating Topological Complexity into a Multilayer Perceptron
