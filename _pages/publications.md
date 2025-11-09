@@ -12,7 +12,24 @@ toc_sticky: false
 
 share: false
 
-## Cyber Security
+feature_row-chaos-gradients:
+  - image_path: /assets/images/cost-curve.png
+    alt: "placeholder image 2"
+    title: "Brezinski, K., Ferens, K., Kinsner, W."
+    excerpt: 'May 2025. World Congress in Computer Science, Computer Engineering and Applied Computing. Springer Nature; in press'
+    url: "https://www.researchgate.net/publication/392031118_Harnessing_Deterministic_Chaos_for_Adaptive_Gradient_Optimization"
+    btn_label: "Full-Text"
+    #btn_class: "btn--success"
+
+feature_row-logistic-dropout:
+  - image_path: /assets/images/logistic_map.png
+    alt: "placeholder image 2"
+    title: "Brezinski, K., Ferens, K., Kinsner, W."
+    excerpt: 'October 2025 International Journal of Data Science and Analytics.Springer Nature; revision requested'
+    url: "https://www.researchgate.net/publication/395773048_Logistic_Dropout_A_Soft_Dropout_Mechanism_via_the_Logistic_Map"
+    btn_label: "Full-Text"
+    #btn_class: "btn--success"
+
 feature_row-ensemble:
   - image_path: /assets/images/ensemble.png
     alt: "placeholder image 2"
@@ -241,6 +258,16 @@ feature_row-covid:
 For a full list of my publications in conferences and periodicals, please visit my [<b>ResearchGate</b>](https://www.researchgate.net/profile/Kenneth-Brezinski/research).
 {: .notice--info}
 
+## Deep Learning and Complexity Analysis
+### Logistic Dropout: A Soft Dropout Mechanism via the Logistic Map
+{% include feature_row id="feature_row-logistic-dropout:" type="left" %}
+### Harnessing Deterministic Chaos for Adaptive Gradient Optimization
+{% include feature_row id="feature_row-chaos-gradients" type="left" %}
+### Incorporating Topological Complexity into a Multilayer Perceptron
+{% include feature_row id="feature_row-complex" type="left" %}
+### Complexity-Based Lambda Layer for Time Series Prediction
+{% include feature_row id="feature_row-rnn" type="left" %}
+
 ## Malware Classification
 ### Graph-Ensemble Methods for Generating Malware Behavioral Signature
 {% include feature_row id="feature_row-ensemble" type="left" %}
@@ -248,16 +275,12 @@ For a full list of my publications in conferences and periodicals, please visit 
 {% include feature_row id="feature_row-phd-thesis" type="left" %}
 ### Graph-Oriented Modelling of Process Event Activity
 {% include feature_row id="feature_row-malware-gnn" type="left" %}
-### Metamorphic Malware and Obfuscation -A Survey of Techniques, Variants and Generation Kits
+### Metamorphic Malware and Obfuscation-A Survey of Techniques, Variants and Generation Kits
 {% include feature_row id="feature_row-review-2" type="left" %}
-### Incorporating Topological Complexity into a Multilayer Perceptron
-{% include feature_row id="feature_row-complex" type="left" %}
 ### Transformers - Malware in Disguise
 {% include feature_row id="feature_row-trans" type="left" %}
 ### Sandy Toolbox: A Framework for Dynamic Malware Analysis and Model Development
 {% include feature_row id="feature_row-review" type="left" %}
-### Complexity-Based Lambda Layer for Time Series Prediction
-{% include feature_row id="feature_row-rnn" type="left" %}
 ### Complexity-Based Convolutional Neural Network for Malware Classification
 {% include feature_row id="feature_row-cnn" type="left" %}
 
