@@ -255,7 +255,7 @@ feature_row-covid:
 For a full list of my publications in conferences and periodicals, please visit my [<b>ResearchGate</b>](https://www.researchgate.net/profile/Kenneth-Brezinski/research).
 {: .notice--info}
 
-# Deep Learning and Complexity Analysis
+## Deep Learning and Complexity Analysis
 
 ### Logistic Dropout: A Soft Dropout Mechanism via the Logistic Map
 {% include feature_row id="feature_row-logistic-dropout" type="left" %}
@@ -296,7 +296,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 ### Effect of total organic carbon and aquatic humic substances on the occurrence of lead at the tap
 {% include feature_row id="feature_row-lead" type="left" %}
 
-# Combinatorial Optimization
+## Combinatorial Optimization
 
 ### An Adaptive Tribal Topology for Particle Swarm Optimization
 {% include feature_row id="feature_row-tribe" type="left" %}
@@ -305,7 +305,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 ### Cognitive Hybrid PSO/SA Combinatorial Optimization
 {% include feature_row id="feature_row-hybrid" type="left" %}
 
-# COVID-19
+## COVID-19
 
 ### Classifying SARS-CoV-2 and Common Co-infections from Genome Assemblies
 {% include feature_row id="feature_row-covid" type="left" %}
