@@ -266,7 +266,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 ### Complexity-Based Lambda Layer for Time Series Prediction
 {% include feature_row id="feature_row-rnn" type="left" %}
 
-# Malware Classification
+## Malware Classification
 
 ### Graph-Ensemble Methods for Generating Malware Behavioral Signature
 {% include feature_row id="feature_row-ensemble" type="left" %}
@@ -283,7 +283,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 ### Complexity-Based Convolutional Neural Network for Malware Classification
 {% include feature_row id="feature_row-cnn" type="left" %}
 
-# Environmental Engineering
+## Environmental Engineering
 
 ### Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
 {% include feature_row id="feature_row-sec1" type="left" %}
