@@ -268,7 +268,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 ### Complexity-Based Lambda Layer for Time Series Prediction
 {% include feature_row id="feature_row-rnn" type="left" %}
 
-## Malware Classification
+# Malware Classification
 ### Graph-Ensemble Methods for Generating Malware Behavioral Signature
 {% include feature_row id="feature_row-ensemble" type="left" %}
 ### Complexity-Based Graph Attention Network for Metamorphic Malware Detection
@@ -284,7 +284,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 ### Complexity-Based Convolutional Neural Network for Malware Classification
 {% include feature_row id="feature_row-cnn" type="left" %}
 
-## Environmental Engineering
+# Environmental Engineering
 ### Multi-spectral characterization of natural organic matter (NOM) from Manitoba surface waters using high performance size exclusion chromatography (HPSEC)
 {% include feature_row id="feature_row-sec1" type="left" %}
 ### An overview of the uses of high performance size exclusion chromatography (HPSEC) in the characterization of natural organic matter (NOM) in potable water, and ion-exchange applications
@@ -296,7 +296,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 ### Effect of total organic carbon and aquatic humic substances on the occurrence of lead at the tap
 {% include feature_row id="feature_row-lead" type="left" %}
 
-## Combinatorial Optimization
+# Combinatorial Optimization
 ### An Adaptive Tribal Topology for Particle Swarm Optimization
 {% include feature_row id="feature_row-tribe" type="left" %}
 ### Population Based Equilibrium in Hybrid SA/PSO for Combinatorial Optimization
@@ -304,6 +304,6 @@ For a full list of my publications in conferences and periodicals, please visit 
 ### Cognitive Hybrid PSO/SA Combinatorial Optimization
 {% include feature_row id="feature_row-hybrid" type="left" %}
 
-## COVID-19
+# COVID-19
 ### Classifying SARS-CoV-2 and Common Co-infections from Genome Assemblies
 {% include feature_row id="feature_row-covid" type="left" %}
