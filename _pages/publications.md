@@ -16,7 +16,7 @@ feature_row-plc-gpt:
   - image_path: /assets/images/plc-gpt.png
     alt: "placeholder image 2"
     title: "Brezinski, K."
-    excerpt: 'Journal of Engineering Applications of Artificial Intelligenc'
+    excerpt: 'Journal of Engineering Applications of Artificial Intelligence; under consideration'
     url: "https://www.researchgate.net/publication/400072858_A_Multi-Agent_Framework_for_Automatic_PLC_Code_Generation_in_Rockwell_Studio_5000"
     btn_label: "Full-Text"
     btn_class: "btn--success"
@@ -34,8 +34,8 @@ feature_row-logistic-dropout:
   - image_path: /assets/images/logistic_map.png
     alt: "placeholder image 2"
     title: "Brezinski, K., Ferens, K., Kinsner, W."
-    excerpt: 'October 2025 International Journal of Data Science and Analytics.Springer Nature; revision requested'
-    url: "https://www.researchgate.net/publication/395773048_Logistic_Dropout_A_Soft_Dropout_Mechanism_via_the_Logistic_Map"
+    excerpt: 'Int J Data Sci Anal 22, 27 (2026)'
+    url: "https://link.springer.com/article/10.1007/s41060-025-00984-9"
     btn_label: "Full-Text"
     btn_class: "btn--success"
 
@@ -43,8 +43,8 @@ feature_row-ensemble:
   - image_path: /assets/images/ensemble.png
     alt: "placeholder image 2"
     title: "Brezinski, K., Ferens, K."
-    excerpt: 'December 2024. Cybersecurity: Cyber Defense, Privacy and Cyber Warfare. De Gruyter (book); accepted'
-    url: "https://www.researchgate.net/publication/384443900_Graph-Ensemble_Methods_for_Generating_Malware_Behavioral_Signatures"
+    excerpt: 'Cybersecurity: Cyber Defense, Privacy and Cyber Warfare, De Gruyter, 2025, pp. 31-56'
+    url: "https://www.degruyterbrill.com/document/doi/10.1515/9783111436548-002/html"
     btn_label: "Full-Text"
     btn_class: "btn--success"
 
