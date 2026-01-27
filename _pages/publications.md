@@ -12,6 +12,15 @@ toc_sticky: false
 
 share: false
 
+feature_row-plc-gpt:
+  - image_path: /assets/images/plc-gpt.png
+    alt: "placeholder image 2"
+    title: "Brezinski, K."
+    excerpt: 'Journal of Engineering Applications of Artificial Intelligenc'
+    url: "https://www.researchgate.net/publication/400072858_A_Multi-Agent_Framework_for_Automatic_PLC_Code_Generation_in_Rockwell_Studio_5000"
+    btn_label: "Full-Text"
+    btn_class: "btn--success"
+
 feature_row-chaos-gradients:
   - image_path: /assets/images/cost-curve.png
     alt: "placeholder image 2"
@@ -238,7 +247,7 @@ feature_row-hybrid:
 
 
 
-## COVID Papers
+## Other
 feature_row-covid:
   - image_path: /assets/images/covid.png
     alt: "placeholder image 2"
@@ -257,6 +266,8 @@ For a full list of my publications in conferences and periodicals, please visit 
 
 ## Deep Learning and Complexity Analysis
 
+### A Multi-Agent Framework for Automatic PLC Code Generation in Rockwell Studio 5000
+{% include feature_row id="feature_row-plc-gpt" type="left" %}
 ### Logistic Dropout: A Soft Dropout Mechanism via the Logistic Map
 {% include feature_row id="feature_row-logistic-dropout" type="left" %}
 ### Harnessing Deterministic Chaos for Adaptive Gradient Optimization
@@ -305,7 +316,7 @@ For a full list of my publications in conferences and periodicals, please visit 
 ### Cognitive Hybrid PSO/SA Combinatorial Optimization
 {% include feature_row id="feature_row-hybrid" type="left" %}
 
-## COVID-19
+## Other
 
 ### Classifying SARS-CoV-2 and Common Co-infections from Genome Assemblies
 {% include feature_row id="feature_row-covid" type="left" %}
