@@ -42,20 +42,12 @@ header:
 <div class="students-grid">
 
 <div class="student-card">
-  <img src="/assets/images/students/sahej.jpeg" alt="Sahej Garg">
-  <div class="student-info">
-    <a href="https://www.linkedin.com/in/sahej-garg/"><strong>Sahej Garg</strong></a>
-    <span>Summer Research Student</span>
-  </div>
-</div>
-
-<div class="student-card">
   <img src="/assets/images/students/aklaq.jpg" alt="Akhlaq Rifat Rahman
 ">
   <div class="student-info">
     <a href="https://www.linkedin.com/in/md-akhlaq-rifat-rahman-8860b9132/"><strong>Akhlaq Rifat Rahman
 </strong></a>
-    <span>MSc. Student (Winter 2026)</span>
+    <span>MSc. Student (co-advisor)</span>
   </div>
 </div>
 
@@ -68,10 +60,18 @@ header:
 <div class="students-grid">
 
 <div class="student-card">
+  <img src="/assets/images/students/sahej.jpeg" alt="Sahej Garg">
+  <div class="student-info">
+    <a href="https://www.linkedin.com/in/sahej-garg/"><strong>Sahej Garg</strong></a>
+    <span>MSc Summer Research Student</span>
+  </div>
+</div>
+
+<div class="student-card">
   <img src="/assets/images/students/michael.jpeg" alt="Michael Guevarra">
   <div class="student-info">
     <a href="https://www.linkedin.com/in/michael-guevarra/"><strong>Michael Guevarra</strong></a>
-    <span>Product Owner at Illumia Labs</span>
+    <span>Summer Research Student</span>
   </div>
 </div>
 
