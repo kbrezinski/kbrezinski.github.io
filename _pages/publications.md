@@ -12,6 +12,19 @@ toc_sticky: false
 
 share: false
 
+<style>
+.feature__wrapper {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 0 !important;
+}
+
+.feature__item {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+</style>
+
 feature_row-plc-gpt:
   - image_path: /assets/images/plc-gpt.png
     alt: "placeholder image 2"
