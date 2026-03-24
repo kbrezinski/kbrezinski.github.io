@@ -13,3 +13,19 @@ body {
 .sidebar, aside, .site-sidebar {
   font-size: 1rem !important;
 }
+
+.feature__wrapper {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.feature__item {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.feature__item:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
