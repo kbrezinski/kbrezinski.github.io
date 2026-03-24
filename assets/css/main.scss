@@ -2,19 +2,14 @@
 ---
 
 :root {
-  font-size: 16px;          /* base for rem units */
+  font-size: 16px;
 }
 
 body {
-  font-size: 0.93rem;       /* adjust smaller; 1rem = root size */
+  font-size: 0.93rem;
   line-height: 1.5;
 }
 
-p, li, blockquote, .content {
-  font-size: 0.95rem;       /* slightly smaller if needed */
+.sidebar, aside, .site-sidebar {
+  font-size: 1rem !important;
 }
-
-/* optional for headings */
-h1 { font-size: 2.0rem; }
-h2 { font-size: 1.75rem; }
-h3 { font-size: 1.5rem; }
