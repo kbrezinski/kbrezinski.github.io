@@ -1,0 +1,31 @@
+---
+---
+
+:root {
+  font-size: 16px;
+}
+
+body {
+  font-size: 0.93rem;
+  line-height: 1.5;
+}
+
+.sidebar, aside, .site-sidebar {
+  font-size: 1rem !important;
+}
+
+.feature__wrapper {
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
+  padding: 0;
+}
+
+.feature__item {
+  margin-bottom: 0.1rem;
+  padding-bottom: 0.1rem;
+}
+
+.feature__item:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
