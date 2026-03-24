@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 layout: single
 author_profile: true
-classes: wide
+classes: wide page-publications
 
 toc: true
 toc_label: "List of Publications"
@@ -11,19 +11,6 @@ toc_icon: "file-medical-alt"
 toc_sticky: false
 
 share: false
-
-<style>
-.feature__wrapper {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-  padding: 0 !important;
-}
-
-.feature__item {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
-}
-</style>
 
 feature_row-plc-gpt:
   - image_path: /assets/images/plc-gpt.png

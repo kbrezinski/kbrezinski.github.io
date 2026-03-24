@@ -1,0 +1,26 @@
+---
+---
+
+:root {
+  font-size: 16px;
+}
+
+body {
+  font-size: 0.93rem;
+  line-height: 1.5;
+}
+
+.sidebar, aside, .site-sidebar {
+  font-size: 1rem !important;
+}
+
+.page-publications .feature__wrapper {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 0 !important;
+}
+
+.page-publications .feature__item {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
