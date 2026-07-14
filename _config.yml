@@ -93,6 +93,9 @@ author:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://kenbrezinski.medium.com/"
+    - label: "Finance Tool"
+      icon: "fa-regular fa-money-bill-1"
+      url: "https://kbrezinski.streamlit.app/"
 
 # footer:
 #   links:
